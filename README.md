@@ -12,7 +12,8 @@ The contents in this repository comprises my submissions for various modules in 
 3. **Educational Use Only**:
    This repository is meant to serve as a personal reference and a learning resource. Any use of the code outside of an academic or learning context is strictly at the user's own discretion and responsibility.
 
+---
 
 Obligatory skibidi
 
-![skibidi](https://github.com/Jardhyx/my-notes/tree/main/assets/hehehe.jpeg)
+![skibidi](https://github.com/Jardhyx/my-notes/blob/main/assets/hehehe.jpeg)
