@@ -4,7 +4,7 @@ The idea is that we need to cause an alert in the webpage without using the scri
 
 We can first explore the website for any vulnerabilities using devtools. If we navigate to the about me page, notice that the URL changes to `about?img=dog.jpg`. If we modify the URL to `about?img=dog.jpg" "test`, we can see that the 'img src' changes accordingly.
 
-![html](https://github.com/Jardhyx/my-notes/tree/main/assets/XSS/1.png)
+![html](https://github.com/Jardhyx/my-notes/blob/main/assets/XSS/1.png)
 
 Thus, we can infer that the image source is related to the URL.
 
