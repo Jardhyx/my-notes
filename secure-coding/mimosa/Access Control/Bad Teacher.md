@@ -24,4 +24,5 @@ There are 2 solutions to this, one using burp proxy, and the other is by using d
 ![devtools stuff](https://github.com/Jardhyx/my-notes/blob/main/assets/Access%20Control/3.png)
 
 2. Notice the option values for each student. We can simply replace Nicholas Lim's value with Nicole Fang's by editing the HTML before clicking on "View Profile".
+
 ![devtools stuff](https://github.com/Jardhyx/my-notes/blob/main/assets/Access%20Control/4%20(1).png)
